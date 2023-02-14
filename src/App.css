@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+#comp {
+  color: red;
+  text-decoration: line-through;
+}
+
+#unc {
+  color: green;
+}
